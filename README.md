@@ -1,7 +1,5 @@
-# 100 Product Manager Case Studies
-> This repository is updated everyday.
+# Product Manager Case Studies
 
-![](xyz.jpg)
 
 | S.N. | Topic | Link |
 | ---- | ----- | ------ | 
@@ -9,3 +7,5 @@
 | 2 | Robin Chase, Zipcar, and an Inconvenient Discovery | [Day2](Day2/Zipcar.md)
 | 3 | Zomato PM Questions | [Day3](Day3/zomato.md)
 | 4 | Disney PM Questions | [Day4](Day4/disney.md)
+| 5 | Atlassian | [Day5](Day5/atlassian.md).
+| 6 | OYO | [Day6](Day6/oyo.md).
